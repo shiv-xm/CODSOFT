@@ -1,6 +1,6 @@
-#codsoft
+##codsoft
 
-##Creating a personal portfolio using CSS and HTML is a popular beginner web development
+1.Creating a personal portfolio using CSS and HTML is a popular beginner web development
 
 Header Section: Adding name & logo at the top.
 Also including the about section: Insert an image of yourself.
