@@ -18,3 +18,12 @@
   encouraging my creativity while ensuring a visually appealing and user-friendly design. 
   ### (GYM-X) landing page website 
 
+## 3. I created a simple Calculator using HTML and CSS only. 
+   It is the simply calculator only for calculation 
+   purposes, includes buttons for additions, substraction, multiplication and division operations.
+   #we can also include javaScript if we write few more function or if-else statements.
+
+
+
+  
+
